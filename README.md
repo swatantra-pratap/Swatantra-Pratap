@@ -54,14 +54,6 @@ trends, customer behavior and product performance.
 SQL-based analytics project focused on service,
 warranty and operational data.
 
-### 📈 Power BI Dashboard
-Interactive dashboard focused on KPIs, trends and
-business performance.
-
-### 📊 Tableau Analytics
-Interactive visualization project demonstrating
-business-focused analytics.
-
 ---
 
 ## 📫 Connect With Me
